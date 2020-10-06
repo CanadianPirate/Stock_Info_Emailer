@@ -1,0 +1,24 @@
+﻿{'zip': '94304', 'sector': 'Consumer Cyclical', 'fullTimeEmployees': 48016, 'longBusinessSummary': h 'city': 'Palo Alto', 'phone': '650-681-5000',
+    'state': 'CA', 'country': 'United States', 'companyOfficers': [], 'website': 'http://www.tesla.com', 'maxAge': 1, 'address1':
+    '3500 Deer Creek Road', 'industry': 'Auto Manufacturers', 'previousClose': 419.62, 'regularMarketOpen': 436.56, '
+    twoHundredDayAverage': 220.37558, 'trailingAnnualDividendYield': None, 'payoutRatio': 0, 'volume24Hr': None, 'regularMarketDayHigh':
+    461.94, 'navPrice': None, 'averageDailyVolume10Day': 84591400, 'totalAssets': None, 'regularMarketPreviousClose': 419.62,
+    'fiftyDayAverage': 361.59583, 'trailingAnnualDividendRate': None, 'open': 436.56, 'toCurrency': None, 'averageVolume10days':
+    84591400, 'expireDate': None, 'yield': None, 'algorithm': None, 'dividendRate': None, 'exDividendDate': None, 'beta': 1.638238,
+    'circulatingSupply': None, 'startDate': None, 'regularMarketDayLow': 430.71, 'priceHint': 2, 'currency': 'USD', 'trailingPE': 1165.1814,
+    'regularMarketVolume': 95154822, 'lastMarket': None, 'maxSupply': None, 'openInterest': None, 'marketCap': 419090432000, '
+    volumeAllCurrencies': None, 'strikePrice': None, 'averageVolume': 76370631, 'priceToSalesTrailing12Months': 16.301947,
+    'dayLow': 430.71, 'ask': 450.75, 'ytdReturn': None, 'askSize': 1200, 'volume': 95154822, 'fiftyTwoWeekHigh': 502.49,
+    'forwardPE': 146.50163, 'fromCurrency': None, 'fiveYearAvgDividendYield': None, 'fiftyTwoWeekLow': 43.672, 'bid': 450.23,
+    'tradeable': False, 'dividendYield': None, 'bidSize': 2200, 'dayHigh': 461.94, 'exchange': 'NMS', 'shortName': 'Tesla, Inc.',
+    'longName': 'Tesla, Inc.', 'exchangeTimezoneName': 'America/New_York', 'exchangeTimezoneShortName': 'EDT', 'isEsgPopulated': False,
+    'gmtOffSetMilliseconds': '-14400000', 'quoteType': 'EQUITY', 'symbol': 'TSLA', 'messageBoardId': 'finmb_27444752', 'market': 'us_market',
+    'annualHoldingsTurnover': None, 'enterpriseToRevenue': 13.834, 'beta3Year': None, 'profitMargins': 0.0143099995, 'enterpriseToEbitda': 103.236,
+    '52WeekChange': 7.57102, 'morningStarRiskRating': None, 'forwardEps': 3.07, 'revenueQuarterlyGrowth': None, 'sharesOutstanding': 931809024,
+    'fundInceptionDate': None, 'annualReportExpenseRatio': None, 'bookValue': 10.597, 'sharesShort': 54890314, 'sharesPercentSharesOut': 0.0588,
+    'fundFamily': None, 'lastFiscalYearEnd': 1577750400, 'heldPercentInstitutions': 0.57927, 'netIncomeToCommon': 376000000, 'trailingEps': 0.386,
+    lastDividendValue': None, 'SandP52WeekChange': 0.12570786, 'priceToBook': 42.4422, 'heldPercentInsiders': 0.2051, 'nextFiscalYearEnd': 1640908800,
+    'mostRecentQuarter': 1593475200, 'shortRatio': 0.75, 'sharesShortPreviousMonthDate': 1596153600, 'floatShares': 742847158, 'enterpriseValue': 355647717376,
+    'threeYearAverageReturn': None, 'lastSplitDate': 1598832000, 'lastSplitFactor': '5:1', 'legalType': None, 'morningStarOverallRating': None, 'earningsQuarterlyGrowth': None,
+    'dateShortInterest': 1598832000, 'pegRatio': 0.73, 'lastCapGain': None, 'shortPercentOfFloat': 0.0736, 'sharesShortPriorMonth': 59726265, 'category': None,
+    'fiveYearAverageReturn': None, 'regularMarketPrice': 436.56, 'logo_url': 'https://logo.clearbit.com/tesla.com'}
